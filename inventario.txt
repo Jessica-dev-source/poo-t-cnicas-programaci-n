@@ -1,0 +1,5 @@
+P1|Globos|50|5.0
+P2|Piñatas|10|50.0
+P3|Confetis|10|5.0
+P4|Disfraz|4|60.0
+P5|Pastel|2|24.0
