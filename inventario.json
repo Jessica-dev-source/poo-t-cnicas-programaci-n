@@ -1,0 +1,34 @@
+{
+  "productos": [
+    {
+      "id": "p1",
+      "nombre": "cuaderno universitario 100 hojas",
+      "cantidad": 8,
+      "precio": 1.5
+    },
+    {
+      "id": "p2",
+      "nombre": "cartuchera",
+      "cantidad": 16,
+      "precio": 3.0
+    },
+    {
+      "id": "p3",
+      "nombre": "mochila",
+      "cantidad": 24,
+      "precio": 10.0
+    },
+    {
+      "id": "p4",
+      "nombre": "caja de colores",
+      "cantidad": 32,
+      "precio": 5.0
+    },
+    {
+      "id": "p5",
+      "nombre": "esfero multicolor",
+      "cantidad": 40,
+      "precio": 1.0
+    }
+  ]
+}
